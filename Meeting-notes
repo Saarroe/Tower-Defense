@@ -1,0 +1,39 @@
+Meeting 2.11.2023 : Project plan review with your advisor 
+
+Went through the project plan with our advisor. Our next step is to begin installing the necessary libraries. The goal for the upcoming week is to set up the environment for everyone, enabling us to start coding. We will attempt to install SFML; if that proves challenging, we'll consider switching to Qt.
+
+Meeting 10.11.2023:
+
+Last week, we installed all the necessary libraries. Installing SFML on Macos proved to be challenging and thus we decided to switch to QT. We installed Qt creator and were able to run a simple mainwindow. Now, the coding environment is set up for everyone and we can start implementing code. 
+Next week, Eero and Juho will start working with the basic classes and implementing a simple UI for those. Patrick and Niko will start to implement the map and figure out the best way to create it. The goal for the next week is that we understand how Qt editor works and how we can add graphics. By the end of the week, we should have a simple version of all the base classes (balloons and defenses) integrated to the game.
+
+Meeting 17.11.2023:
+
+Last week, we started to implement code. Eero and Juho added the base classes and were able to create push buttons wiht signals to start the game. Now, it just adds a red balloon to the window when start game is pushed. 
+
+Next week, Eero and Juho will start to implement the starting view (graphics) with relevant buttons for playing the game. The goal for the next week is to have the relavant buttons and actions ready so we can start to work implementing levels and get the balloons to move. Patrick and Niko will implement the map and then start to think how to move the balloons in the map etc. 
+
+Meeting 22.11.2023:
+
+Last weekend, we were able to create the map and add balloons to it. Balloons have also a timer which moves them 1 pixel at a time along the path. First tower also added to the game and on the grid. 
+
+Next, we will start to focus on how the towers can attack/destory the balloons. That's the main goal for the upcoming days. Meanwhile Eero will continue to implement the levels spawning balloons to the grid after start level is pushed. 
+
+Meeting 29.11.2023:
+
+First version of the game is done and it can be played. We are fixing some minor bugs and making a new map. 
+
+Meeting 5.12.2023
+
+Participants: 
+Niko, Eero, Juho
+
+Last week, we were able to make to ga,e playable. Towers can no be bought and sold. Juho added sounds yesterday, Eero made some final graphical designs and Niko worked with finalizing the towers. 
+
+The goal for this week is to finalize the game for the demo. Today, we will add the money system and start to optimize the wave difficulty, firing rates of the towers etc. 
+Patrick will start to work with the presentation. Project is almost done. 
+
+
+
+
+

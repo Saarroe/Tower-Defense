@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>red.png</file>
+        <file>brick.png</file>
+        <file>grass.png</file>
+        <file>tower.png</file>
+        <file>projectile.png</file>
+        <file>main.png</file>
+        <file>blue.png</file>
+        <file>silver.png</file>
+        <file>black.png</file>
+        <file>boss.png</file>
+        <file>castle.png</file>
+        <file>armor_balloon.png</file>
+        <file>crossbow.png</file>
+        <file>high.png</file>
+        <file>slow.png</file>
+        <file>sniper.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>balloonpop.mp3</file>
+        <file>shooting.mp3</file>
+        <file>armor.mp3</file>
+        <file>sniper.mp3</file>
+        <file>victory.mp3</file>
+        <file>background.mp3</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>levels.txt</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>basic_map.txt</file>
+        <file>loop_map.txt</file>
+    </qresource>
+</RCC>
